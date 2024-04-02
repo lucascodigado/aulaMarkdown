@@ -19,7 +19,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 # pesquisa engenharia de requisitos
 
-# Conceito= O serviço de engenharia de requisitos é indispensável para garantir o sucesso no desenvolvimento de qualquer software. A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis.
+### Conceito= O serviço de engenharia de requisitos é indispensável para garantir o sucesso no desenvolvimento de qualquer software. A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis.
 
 Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
 
@@ -40,13 +40,11 @@ Ex: Cadastro de usuários, Login, Geolocalização, Busca por Listas, Emissão d
 ![Imagem 2](https://static.vivaolinux.com.br/imagens/artigos/comunidade/processoEngRequisitos.jpg)
 ![Imagem 1](https://rederequisitos.com.br/wp-content/uploads/2017/07/prod_Ger_EngReq.png)
 
-*Links
-[https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o.]
+*Se você quiser estudar mais sobre o assunto[Clique aqui](https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o.)
 
 *Tabela
 UC        | Nome da UC  | Descrição
 --------- | ----------- | ----------
 UC 1      | Materiais   | Pegar um copo e polpa para fazer o suco
-UC 2      |             |
-UC 3      | R$ 7        |
-UC 4      | R$ 8        |
+UC 2      | Preparação  | Agora coloque toda a polpa no liquidificador junto com a água para deixar a polpa líquida
+UC 3      | Final       | Quando a polpa estiver líquida coloque em um copo com gelo e pronto   
